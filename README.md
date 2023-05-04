@@ -1,2 +1,2 @@
 #test Repo
-text commit 
+tech doc followed under 
